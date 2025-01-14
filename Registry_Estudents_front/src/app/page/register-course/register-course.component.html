@@ -1,0 +1,31 @@
+@if(validateData){
+    <section class="bg-gray-50 dark:bg-gray-900">
+        <div class="flex flex-col items-center justify-center px-6 py-8 mx-auto md:h-screen lg:py-0">
+            <div class="w-full bg-white rounded-lg shadow dark:border md:mt-0 sm:max-w-md xl:p-0 dark:bg-gray-800 dark:border-gray-700">
+                <div class="p-6 space-y-4 md:space-y-6 sm:p-8">
+                    <h1 class="text-xl font-bold leading-tight tracking-tight text-gray-900 md:text-2xl dark:text-white">
+                        Registro de materias
+                    </h1>
+                    <form class="space-y-4 md:space-y-6" [formGroup]="register" (ngSubmit)="record()">
+                        @for(course of courses.controls;track i ;let i = $index){
+                    <div formArrayName="courses">
+                        <div [formGroupName]="i" class="flex items-center ps-4 border border-gray-200 rounded dark:border-gray-700">
+                            <input id="bordered-checkbox-1" type="checkbox" formControlName="selected" name="bordered-checkbox" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                            <!-- <input id="bordered-checkbox-1" type="checkbox" formControlName="course.idTeacher" name="bordered-checkbox" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600">
+                            <input id="bordered-checkbox-1" type="checkbox" formControlName="course.idNoCredits" name="bordered-checkbox" class="w-4 h-4 text-blue-600 bg-gray-100 border-gray-300 rounded focus:ring-blue-500 dark:focus:ring-blue-600 dark:ring-offset-gray-800 focus:ring-2 dark:bg-gray-700 dark:border-gray-600"> -->
+                            <label for="bordered-checkbox-1"  class="w-full py-4 ms-2 text-sm font-medium text-gray-900 dark:text-gray-300">Materia : {{course.get('course')?.value}} - Dicta : {{course.get('teacher')?.value}}</label>
+                        </div>
+                    </div>
+                    }
+                    @if(register.errors?.['maxChecked']){
+                    <div  style="color: red;">  
+                        No puede seleccionar más de 3 checkboxes.  
+                      </div> 
+                    }
+                    <button type="submit" class="w-full text-white bg-gradient-to-r from-green-400 via-green-500 to-green-600 hover:bg-gradient-to-br focus:ring-4 focus:outline-none focus:ring-green-300 dark:focus:ring-green-800 font-medium rounded-lg text-sm px-5 py-2.5 text-center me-2 mb-2">Registrar curso</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+      </section>
+}
