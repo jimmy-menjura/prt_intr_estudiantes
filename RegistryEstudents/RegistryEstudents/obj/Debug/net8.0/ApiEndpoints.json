@@ -1,0 +1,282 @@
+[
+  {
+    "ContainingType": "RegistryEstudents.Controllers.AuthController",
+    "Method": "LogonEstudents",
+    "RelativePath": "api/Auth/logonEstudents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginDTO",
+        "Type": "RegistryEstudents.Models.DTO.LoginDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "DeleteCourseById",
+    "RelativePath": "api/Estudents/deleteCourseById/{idEstudent}/{idCourse}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "idEstudent",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "idCourse",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "DeleteEstudents",
+    "RelativePath": "api/Estudents/deleteEstudents",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "GetAllCourse",
+    "RelativePath": "api/Estudents/getAllCourse",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.CourseByEstudent, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "getcourseByEstudent",
+    "RelativePath": "api/Estudents/getcourseByEstudent/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.CourseByEstudent, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "getcourseById",
+    "RelativePath": "api/Estudents/getcourseById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.CourseByEstudent, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "getcourseByTeacher",
+    "RelativePath": "api/Estudents/getcourseByTeacher",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.CourseByTeacher, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "GetcourseRegisterByEstudent",
+    "RelativePath": "api/Estudents/getcourseRegisterByEstudent/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "GetEstudents",
+    "RelativePath": "api/Estudents/getEstudents",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.Estudents, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "saveCourseByEstudents",
+    "RelativePath": "api/Estudents/saveCourseByEstudents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "courseByTeachersEstudent",
+        "Type": "System.Collections.Generic.List\u00601[[RegistryEstudents.Models.DTO.CourseByTeacherDTO, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "SaveEstudents",
+    "RelativePath": "api/Estudents/saveEstudents",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudents",
+        "Type": "RegistryEstudents.Models.Estudents",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.EstudentsController",
+    "Method": "UpdateEstudents",
+    "RelativePath": "api/Estudents/updateEstudents",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "estudents",
+        "Type": "RegistryEstudents.Models.Estudents",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "RegistryEstudents.Controllers.WeatherForecastController",
+    "Method": "Get",
+    "RelativePath": "WeatherForecast",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[RegistryEstudents.WeatherForecast, RegistryEstudents, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "EndpointName": "GetWeatherForecast"
+  }
+]

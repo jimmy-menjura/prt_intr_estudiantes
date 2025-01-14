@@ -1,0 +1,361 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\services\\estudentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\services\\estudentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\services\\iestudentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\services\\iestudentsservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\controllers\\estudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\controllers\\estudentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\dbcontextclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\services\\authservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\registercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\registercourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\services\\iauthservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\coursebyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\coursebyteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\dto\\coursebyteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\dto\\coursebyteacherdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\models\\estudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\models\\estudents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\utils\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\utils\\utility.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\registryestudents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\registryestudents.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\database\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\database\\connectdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\registryestudents.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\registryestudents.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|c:\\users\\jimmy.menjura\\source\\repos\\registryestudents\\registryestudents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{937F6575-B424-4863-B4D3-7129AD9D4642}|RegistryEstudents\\RegistryEstudents.csproj|solutionrelative:registryestudents\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EstudentsServices.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\EstudentsServices.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Services\\EstudentsServices.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\EstudentsServices.cs",
+              "RelativeToolTip": "RegistryEstudents\\Services\\EstudentsServices.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAcwEEAAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:27:39.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EstudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\EstudentsController.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Controllers\\EstudentsController.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\EstudentsController.cs",
+              "RelativeToolTip": "RegistryEstudents\\Controllers\\EstudentsController.cs",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEYAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T22:00:20.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IEstudentsServices.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\IEstudentsServices.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Services\\IEstudentsServices.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\IEstudentsServices.cs",
+              "RelativeToolTip": "RegistryEstudents\\Services\\IEstudentsServices.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwA0AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:26:48.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DBContextClass.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DBContextClass.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\DBContextClass.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DBContextClass.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\DBContextClass.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAjwBcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T21:47:20.683Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "RegistryEstudents\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBkAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:36:19.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\AuthServices.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Services\\AuthServices.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\AuthServices.cs",
+              "RelativeToolTip": "RegistryEstudents\\Services\\AuthServices.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:39:28.661Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterCourse.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\RegisterCourse.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\RegisterCourse.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\RegisterCourse.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\RegisterCourse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T05:55:12.137Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IAuthServices.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\IAuthServices.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Services\\IAuthServices.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Services\\IAuthServices.cs",
+              "RelativeToolTip": "RegistryEstudents\\Services\\IAuthServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:38:54.062Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DTO\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\DTO\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DTO\\LoginDTO.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\DTO\\LoginDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:34:29.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseByTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\CourseByTeacher.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\CourseByTeacher.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\CourseByTeacher.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\CourseByTeacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T06:02:47.141Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CourseByTeacherDTO.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DTO\\CourseByTeacherDTO.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\DTO\\CourseByTeacherDTO.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\DTO\\CourseByTeacherDTO.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\DTO\\CourseByTeacherDTO.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:23:47.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RegistryEstudents\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:53:24.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Estudents.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\Estudents.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Models\\Estudents.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Models\\Estudents.cs",
+              "RelativeToolTip": "RegistryEstudents\\Models\\Estudents.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T02:23:41.417Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Program.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Program.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Program.cs",
+              "RelativeToolTip": "RegistryEstudents\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:53:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Utility.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Utils\\Utility.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Utils\\Utility.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Utils\\Utility.cs",
+              "RelativeToolTip": "RegistryEstudents\\Utils\\Utility.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAewCgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T03:08:52.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "RegistryEstudents.csproj",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\RegistryEstudents.csproj",
+              "RelativeDocumentMoniker": "RegistryEstudents\\RegistryEstudents.csproj",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\RegistryEstudents.csproj",
+              "RelativeToolTip": "RegistryEstudents\\RegistryEstudents.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-13T02:08:07.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\appsettings.json",
+              "RelativeDocumentMoniker": "RegistryEstudents\\appsettings.json",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\appsettings.json",
+              "RelativeToolTip": "RegistryEstudents\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-13T03:07:02.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConnectDB.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Database\\ConnectDB.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Database\\ConnectDB.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Database\\ConnectDB.cs",
+              "RelativeToolTip": "RegistryEstudents\\Database\\ConnectDB.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T01:40:09.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "RegistryEstudents\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\WeatherForecast.cs",
+              "RelativeToolTip": "RegistryEstudents\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-10T21:53:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RegistryEstudents.http",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\RegistryEstudents.http",
+              "RelativeDocumentMoniker": "RegistryEstudents\\RegistryEstudents.http",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\RegistryEstudents.http",
+              "RelativeToolTip": "RegistryEstudents\\RegistryEstudents.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-01-10T21:53:50.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "RegistryEstudents\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\jimmy.menjura\\source\\repos\\RegistryEstudents\\RegistryEstudents\\Properties\\launchSettings.json",
+              "RelativeToolTip": "RegistryEstudents\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-10T21:53:34.662Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
