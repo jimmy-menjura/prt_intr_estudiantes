@@ -1,7 +1,7 @@
 import {  HttpHeaders,HttpClient } from '@angular/common/http';
 import { inject, Injectable } from '@angular/core';
 import { Observable } from 'rxjs';
-import { environment } from '../../environments/environment';
+import { environment } from '../../environments/environment.prod';
 import { Estudents } from '../models/Estudents.model';
 import { CourseByEstudent } from '../models/CourseByEstudent.model';
 import { CourseByTeacher } from '../models/CourseByTeacher.model';
